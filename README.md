@@ -34,7 +34,7 @@ Totally, amigo! Join any time of the year. The vision of **#301DaysOfCode** is t
 
 Of course, my friend! Most people doing **#100DaysOfCode** are also doing **#301DaysOfCode**.
 
-**#100DaysOfCode** is focused on getting you to form a coding habit, which is awesome, but requires you to know Git right from the start.
+**#100DaysOfCode** is focused on getting you to form a coding habit, which is awesome.
 
 **#301DaysOfCode** is focused on taking you from knowing nothing to landing a developer job within a year.
 
